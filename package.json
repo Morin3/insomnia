@@ -62,6 +62,6 @@
     "tslib": "2.0.1",
     "type-fest": "^4.15.0",
     "typescript": "^5.4.4",
-    "vitest": "^2.0.4"
+    "vitest": "^3.0.5"
   }
 }
