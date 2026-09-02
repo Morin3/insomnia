@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "@develohpanda/fluent-builder": "^2.1.2",
-    "@faker-js/faker": "8.4.1",
+    "@faker-js/faker": "10.5.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
     "@fortawesome/free-regular-svg-icons": "^6.5.2",
