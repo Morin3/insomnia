@@ -27,7 +27,7 @@
     "chai": "^5.1.0",
     "cheerio": "^1.0.0-rc.12",
     "crypto-js": "^4.2.0",
-    "csv-parse": "^5.5.5",
+    "csv-parse": "^7.0.2",
     "deep-equal": "^2.2.3",
     "lodash": "^4.17.21",
     "moment": "^2.30.1",
